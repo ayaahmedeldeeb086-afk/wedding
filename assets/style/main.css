@@ -28,7 +28,7 @@ body {
 }
 .hero {
   height: 90vh;
-  background-image: url(/assets/img/full-1\ \(1\).jpeg);
+  background-image: url(../img/full-1\ \(1\).jpeg);
   position: relative;
   background-position: center;
   background-size: cover;
